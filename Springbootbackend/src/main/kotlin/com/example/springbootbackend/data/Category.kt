@@ -1,4 +1,4 @@
-package com.example.springbootkt.data
+package com.example.springbootbackend.data
 
 import java.io.Serializable
 import javax.persistence.*
