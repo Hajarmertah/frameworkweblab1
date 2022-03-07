@@ -1,4 +1,4 @@
-package com.example.springbootkt.dao
+package com.example.springbootbackend.dao
 
 import com.example.springbootkt.data.Category
 import org.springframework.data.jpa.repository.JpaRepository
