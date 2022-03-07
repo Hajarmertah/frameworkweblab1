@@ -1,4 +1,4 @@
-package com.example.springbootkt
+package com.example.springbootbackend
 
 import com.example.springbootkt.dao.CategoryRepository
 import com.example.springbootkt.dao.ProductRepository
