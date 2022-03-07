@@ -1,9 +1,9 @@
 package com.example.springbootbackend
 
-import com.example.springbootkt.dao.CategoryRepository
-import com.example.springbootkt.dao.ProductRepository
-import com.example.springbootkt.data.Category
-import com.example.springbootkt.data.Product
+import com.example.springbootbackend.dao.CategoryRepository
+import com.example.springbootbackend.dao.ProductRepository
+import com.example.springbootbackend.data.Category
+import com.example.springbootbackend.data.Product
 import net.bytebuddy.utility.RandomString
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.boot.CommandLineRunner
